@@ -74,3 +74,15 @@ The project is structured into several key components:
 
 ## Example Data Format
 - **User Data**:
+
+
+## Dependencies
+- Standard C++ libraries (`<vector>`, `<queue>`, `<set>`, `<map>`, `<fstream>`, `<sstream>`, `<iostream>`, `<assert.h>`).
+
+## Author
+- **Ahmed Fathy**
+- LinkedIn: [Ahmed Fathy](https://www.linkedin.com/in/ahmed-fathy0/)
+- GitHub: [ahmedfathy21](https://github.com/ahmedfathy21)
+
+## License
+This project is open-source and available under the MIT License.
